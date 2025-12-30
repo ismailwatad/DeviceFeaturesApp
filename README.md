@@ -1,7 +1,7 @@
 # DeviceFeaturesApp
 
-- Öğrenci Adı: TODO
-- Öğrenci Numarası: TODO
+- Öğrenci Adı: ISMAIL WATAD
+- Öğrenci Numarası: 210404918
 
 ## Kurulum
 1. Depoyu klonlayın veya indirin.
